@@ -69,6 +69,7 @@ const styles = StyleSheet.create({
   map: {
     width: Dimensions.get('window').width,
     height: Dimensions.get('window').height,
+    flex: 1,
   },
 
   calloutContainer: {
